@@ -1,5 +1,6 @@
 # ponykorn 60
- O-ring mount 60% pcb. This PCB was was design and replicated from the orignial Bakeneko60. It taught me how to design my own PCB so thank you Katano! Sept-Oct, 2020.
+ O-ring mount 60% pcb. This PCB was design and replicated by the orignial Bakeneko60. It taught me how to design my own PCB so thank you Katano! And thank you
+ again for helping me with all my questions back then before the release of the bakeneko60 Sept-Oct, 2020.
  
  # Q&A.
   ## Is it usable?
